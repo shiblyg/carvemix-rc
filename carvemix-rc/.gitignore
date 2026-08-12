@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.ipynb_checkpoints/
+data/
+predictions/
+*.nii.gz
+*.npz
+*.pth
+*.pkl
+.DS_Store

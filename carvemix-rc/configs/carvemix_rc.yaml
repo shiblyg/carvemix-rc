@@ -1,0 +1,23 @@
+carvemix:
+  lambda_range: [-3.0, 5.0]
+  min_donor_voxels: 50
+  n_generate: 300
+  prefer_rc_negative_targets: true
+  seed: 42
+
+trainer:
+  rc_class_weight: 3.0
+  oversample_foreground: 0.66
+  dice_ce_ratio: [1.0, 1.0]
+  dice_smooth: 1.0e-5
+
+postprocess:
+  rc_min_voxels: 50
+  et_min_voxels: 15
+
+labels:
+  background: 0
+  NETC: 1
+  SNFH: 2
+  ET: 3
+  RC: 4
