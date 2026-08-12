@@ -132,7 +132,11 @@ Data are provided through the \[BraTS 2026 Challenge](https://www.synapse.org/Sy
 
 
 
-Label convention: `0` background, `1` NETC, `2` SNFH, `3` ET, `4` RC.Citation
+Label convention: `0` background, `1` NETC, `2` SNFH, `3` ET, `4` RC.
+
+
+
+## Citation
 
 If you use this repository, please cite the corresponding manuscript. Final citation metadata will be updated upon publication.
 
