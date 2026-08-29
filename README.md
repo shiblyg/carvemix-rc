@@ -142,15 +142,10 @@ If you use this repository, please cite the corresponding manuscript. Final cita
 
 ```bibtex
 @inproceedings{carvemixrc2026,
-
-&#x20; title     = {CarveMix-RC: Lesion-Aware Synthetic Augmentation for Resection-Cavity Segmentation in Brain Metastases},
-
-&#x20; author    = {To be updated},
-
-&#x20; booktitle = {To be updated},
-
-&#x20; year      = {2026}
-
+  title     = {CarveMix-RC: Lesion-Aware Synthetic Augmentation for Resection-Cavity Segmentation in Brain Metastases},
+  author    = {To be updated},
+  booktitle = {To be updated},
+  year      = {2026}
 }```
 
 ## License
